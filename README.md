@@ -10,4 +10,4 @@ python >= 3.11
 
 numpy
 
-importmatplotlib
+matplotlib
